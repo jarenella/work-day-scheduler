@@ -73,3 +73,11 @@ textarea{
 textarea {
   width: 100%;
 }
+
+.jumbotron {
+  background-color: whitesmoke;
+}
+
+body {
+  background-color: gainsboro;
+}
